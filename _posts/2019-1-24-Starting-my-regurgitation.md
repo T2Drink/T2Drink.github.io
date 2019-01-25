@@ -1,6 +1,7 @@
 ---
-layout:post
+layout: post
 title: It all starts here
+published: true
 ---
 
 ![_config.yml[(/images/config.jpg)
