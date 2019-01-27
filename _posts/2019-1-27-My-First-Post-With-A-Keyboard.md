@@ -1,7 +1,7 @@
 ---
-Layout:post
-Title:Moving onto a keyboard
-Published:true
+layout:post
+title:Moving onto a keyboard
+published:true
 ---
 
 There is a few things i wanted when i moved to the ipad and one of them was a physical keyboard to be able to type well on.
